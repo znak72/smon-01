@@ -35,3 +35,7 @@
 
 #Решение 1 
 ![](https://github.com/znak72/smon-01/blob/main/1.jpg)
+
+#Решенеие 2
+
+![](https://github.com/znak72/smon-01/blob/main/2.jpg)
